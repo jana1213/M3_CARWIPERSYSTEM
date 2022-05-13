@@ -21,12 +21,14 @@ In this project, there were two developments audited as the writing survey. The 
 * Power Supply
 # DIAGRAMS
 # BLOCK DIAGRAM
-![BLOCK DIAGRAM](https://user-images.githubusercontent.com/101693748/168129831-b57da4ba-bb70-4cd6-8492-e5a077f3ecba.png)
-# FLOW CHART
-![FLOW CHART](https://user-images.githubusercontent.com/101693748/168129901-f4bc7ed8-aba5-448c-84f3-0c08ee9f85d9.png)
+![BLOCK DIAGRAM (1)](https://user-images.githubusercontent.com/101693748/168218197-b54a3395-2235-4baf-9c88-88014a2f8e84.png)
 
-# CIRCUIT DIAGRAM
+# FLOW CHART
+![FLOWCHART 1](https://user-images.githubusercontent.com/101693748/168218223-8fabd5df-2dd2-45e2-b538-14d39aa0b479.png)
+
 # SCHEMATIC DIAGRAM
+![o1](https://user-images.githubusercontent.com/101693748/168218142-2fe98ed9-a209-4431-a7f9-d068d950e92a.png)
+
 
 # ADVANTAGES:
 * To save money during wet seasons, turn off the irrigation system. Electricity bills are lowered as a consequence.
